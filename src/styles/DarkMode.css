@@ -15,7 +15,7 @@
   cursor: pointer;
   border-radius: 1vh;
   transition: all 0.15s;
-  background-color: rgb(205, 197, 162);
+  background-color: rgb(20, 20, 20);
 }
 
 .darkModeContainer:hover,
@@ -23,8 +23,4 @@
   outline: none;
   transform: scale(1.05);
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
-}
-
-.objDisabled {
-  display: none;
 }
