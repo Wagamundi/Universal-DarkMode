@@ -1,4 +1,4 @@
-const darkModeSwitcher = false; //Defines if it Switches DarkMode or LightMode || !!! This does not change said thing in line 3 !!!
+const darkModeSwitcher = false; //Defines if it Switches DarkMode or LightMode (DarkMode to Lightmode = false) || !!! This does not change said thing in line 3 !!!
 
 // You have to Put your Main Color in the light variables and the Color you wanna switch it for in the same Indexed dark
 
