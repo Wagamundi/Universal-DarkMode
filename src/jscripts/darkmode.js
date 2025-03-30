@@ -67,8 +67,6 @@ doc.forEach((element) => {
   }
 });
 
-console.log(fntTheme1);
-
 if (darkModeSwitcher === false) {
   darkModeImg.forEach((element) => {
     element.classList.toggle("objDisabled");
